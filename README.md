@@ -1,1 +1,1 @@
-# ITMO_physics_modeling_1sem
+# ITMO_physics_modeling_2sem
